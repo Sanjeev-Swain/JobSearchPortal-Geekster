@@ -1,4 +1,4 @@
-<h1 align="center"> 👤JOB SEARCH PORTAL</h1>
+<h1 align="center"> JOB SEARCH PORTAL</h1>
 
 >### Framework Used 
  * ![SpringBoot](https://img.shields.io/badge/SpringBoot-White?style=flat&logoColor=Blue)
