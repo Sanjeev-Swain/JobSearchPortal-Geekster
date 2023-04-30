@@ -1,10 +1,10 @@
 <h1 align="center"> JOB SEARCH PORTAL</h1>
 
 >### Framework Used 
- * ![SpringBoot](https://img.shields.io/badge/SpringBoot-White?style=flat&logoColor=Blue)
+ * Springboot
 
 >### Language Used
-* ![Java](https://img.shields.io/badge/Java-White?style=flat&logoColor=Blue)
+* Java
 >## Data flow
 In this project, we have four layers-
 * **Controller** - The controller layer handles the HTTP requests, translates the JSON parameter to object, and authenticates the request and transfer it to the business (service) layer. In short, it consists of views i.e., frontend part.
